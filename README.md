@@ -33,11 +33,11 @@ $ npm install --g bower grunt-cli
 
 Setup WaveMaker Theme Repository
 --------
-To clone the ATT_Marketplace_Web_Theme repository, use git clone:
+To clone the ATT_Mvno_Web_Theme repository, use git clone:
 
 <pre>
- git clone https://github.com/wavemaker/ATT_Marketplace_Web_Theme.git
- cd ATT_Marketplace_Web_Theme
+ git clone https://github.com/wavemaker/ATT_Mvno_Web_Theme.git
+ cd ATT_Mvno_Web_Theme
  npm install
 </pre>
 
@@ -86,10 +86,10 @@ There will be references to Roboto regular fonts in the variables.less(src/web),
 
 Build
 --------
-To build the WaveMaker Theme run the below command from ATT_Marketplace_Web_Theme directory
+To build the WaveMaker Theme run the below command from ATT_Mvno_Web_Theme directory
 
 <pre>
-cd ATT_Marketplace_Web_Theme
+cd ATT_Mvno_Web_Theme
 grunt themes
 </pre>
 
